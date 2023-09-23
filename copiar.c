@@ -1,3 +1,4 @@
+/*ejemplo de pipes + manejo de archivos*/
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
