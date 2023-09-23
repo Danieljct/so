@@ -1,3 +1,4 @@
+/*ejemplo de threads*/
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
