@@ -1,5 +1,5 @@
 //gcc -fopenmp -lm  main.c -o main
-
+/*ejemplo multithread con omp*/
 #include <math.h>
 #include <omp.h>
 #include <stdio.h>
